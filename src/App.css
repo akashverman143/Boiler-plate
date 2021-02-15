@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.quizBox {
+  /* display: flex; */
+  /* flex-wrap: nowrap;
+  justify-content: center; */
+  /* border: 1px solid black; */
+  width: 600px;
+  height: 100%;
+  padding: 10px;
+}
+.quizBox h3 {
+  justify-content: center;
+}

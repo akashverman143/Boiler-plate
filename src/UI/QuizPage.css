@@ -1,0 +1,57 @@
+.quizBoxHeader {
+  display: flex;
+  justify-content: center;
+}
+.card {
+  width: 580px;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: white;
+  /* border: 1px solid rgb(248, 246, 246); */
+}
+.timer {
+  background: white;
+}
+.questionCard{
+  width: 580px;
+  padding: 10px;
+  padding-top: 40px;
+  padding-left: 20px;
+  /* margin-top: 10px; */
+  background-color: rgb(178, 247, 247);
+}
+.basicQuizHeader {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(126, 122, 122);
+  /* color: white; */
+}
+.basicQuizHeader h1 {
+  color: white;
+}
+.questionHeader {
+  width: 545px;
+  padding-left: 10px;
+  background-color: rgb(185, 202, 202);
+}
+.radioAnswer {
+  width: 545px;
+  margin-bottom: 2px;
+  background-color: white;
+}
+.resultHeadre {
+  display: flex;
+  justify-content: center;
+}
+.answerSection {
+  /* padding: 10px; */
+  background-color: white;
+}
+.answerText {
+  padding: 10px;
+  border: 0.5px solid rgb(151, 149, 149);
+  background-color: rgb(151, 149, 149);
+}
+.displayQuestion {
+  padding: 10px;
+}
